@@ -3,7 +3,7 @@
         <title>Слесарьтехника</title>
     </head>
     <body>
-        <p align="center"><font size="1000" color="cyan" face="Arial">Тема 9:Резьба. Нарезание резбы </font></p>
+        <p align="center"><font size="1000" color="cyan" face="Arial">Тема 8:Резьба. Нарезание резбы </font></p>
         <style>
            body{
             background:rgb(116, 111, 42);
